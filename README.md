@@ -18,3 +18,8 @@
 - OKhttp3
 - RecyclerView
 - LinearLayout
+- Android 12.0
+
+> 注：如果数据加载不出来，可能是接口更换或者失效了，
+>
+> 本项目仅供学习交流使用，未经作者同意，禁止转载或作其他用途
